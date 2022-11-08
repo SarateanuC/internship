@@ -1,4 +1,4 @@
-package org.example.model;
+package tasks.task1.model;
 
 import lombok.*;
 
